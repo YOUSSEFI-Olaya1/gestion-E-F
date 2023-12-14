@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>uae.ensat</groupId>
-    <artifactId>DKHISSI_AYOUB_JEE</artifactId>
+    <artifactId>JEE</artifactId>
     <version>1</version>
     <packaging>war</packaging>
 
-    <name>DKHISSI_AYOUB_JEE</name>
+    <name>JEE</name>
 
     <properties>
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
